@@ -4,7 +4,7 @@
 <div align="center">
 
 
-![](https://komarev.com/ghpvc/?username=jamiebower&style=plastic&label=WOODSBORO+MURDERS&color=2A2941&base=4563)
+![](https://komarev.com/ghpvc/?username=jamiebower&style=plastic&label=Easter+Eggs&color=2A2941&base=4563)
 
 </div>
 
